@@ -1,4 +1,4 @@
-PipeLine{
+pipeline{
  agent any
    stage{
    steps{
